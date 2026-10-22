@@ -105,9 +105,6 @@ The expression \(x(180 - x)\) is calculated once in the numerator, allowing the 
 Run the script via the terminal:
 
 ```bash
-python accurate_sine.py
+python sin-project.py
 ```
 
-### Examples:
-
-**Example 1 (Precise calculation for 30°):**
