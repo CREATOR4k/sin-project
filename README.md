@@ -1,4 +1,4 @@
-# Sine Calculation
+# Sin Calculation
 
 This Python script calculates an approximate value for the sine of an angle in the range of 0° to 90° using the historical **Bhaskara I formula** (7th century).
 
