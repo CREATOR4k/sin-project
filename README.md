@@ -39,7 +39,7 @@ Despite its simplicity, the algorithm maintains a level of accuracy sufficient f
 
 1. Ensure that **Python 3.x** is installed. 2. Run the script:
 ```bash
-python accurate_sine.py
+python sin-project.py
 ```
 
 ### Usage Examples
@@ -63,11 +63,11 @@ Error: please enter a number strictly between 0 and 90 degrees.
 The formula is based on the ratio of two parabolas and offers remarkable accuracy for an algorithm developed over 1,300 years ago.
 
 * **Perfectly accurate values** are achieved at five key points within the interval:
-* \(0^\circ \implies \sin(0^\circ) = 0\)
-* \(30^\circ \implies \sin(30^\circ) = 0.5\)
-* \(90^\circ \implies \sin(90^\circ) = 1\)
-* \(150^\circ \implies \sin(150^\circ) = 0.5\)
-* \(180^\circ \implies \sin(180^\circ) = 0\)
+* sin(0) = 0
+* sin(30)= 0.5
+* sin(90) = 1
+* sin(150) = 0.5
+* sin(180) = 0
 * **Maximum absolute error:** \(\approx 0.0016\) (less than \(0.2\%\)), making this formula an excellent choice for rapid calculations on microcontrollers or in applications where the extreme precision of Taylor series expansions is not required. ---
 
 ## 💻 Implementation Example (Python)
