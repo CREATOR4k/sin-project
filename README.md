@@ -68,7 +68,7 @@ The formula is based on the ratio of two parabolas and offers remarkable accurac
 * sin(90) = 1
 * sin(150) = 0.5
 * sin(180) = 0
-* **Maximum absolute error:** \(\approx 0.0016\) (less than \(0.2\%\)), making this formula an excellent choice for rapid calculations on microcontrollers or in applications where the extreme precision of Taylor series expansions is not required. ---
+* **Maximum absolute error:** (approx 0.0016), making this formula an excellent choice for rapid calculations on microcontrollers or in applications where the extreme precision of Taylor series expansions is not required. ---
 
 ## 💻 Implementation Example (Python)
 
