@@ -1,5 +1,5 @@
 # Sin Calculation/ Sin Json Base
-Json base (0°-360°)
+# Json base (0°-360°)
 
 This Python script calculates an approximate value for the sine of an angle in the range of 0° to 90° using the historical **Bhaskara I formula** (7th century).
 
